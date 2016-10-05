@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi I'm Joel
+ 
+ I want to learn how do apps on phones and google sheets and docs.
